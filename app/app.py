@@ -1,5 +1,6 @@
 import streamlit as st ##streamlit run app/app.py
 import pandas as pd
+from altair.vegalite.v4.api import Chart
 
 
 st.markdown(
